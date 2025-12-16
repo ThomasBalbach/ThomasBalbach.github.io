@@ -18,6 +18,5 @@ Panel participation on AI in research at the Faculty of Social Sciences Research
 
 <img src="/images/ai-in-research-panel-2023.jpeg" alt="AI in research panel (photo 1)" style="max-width: 100%; height: auto;" />
 
-<img src="/images/ai-in-research-panel-2023-b.jpeg" alt="AI in research panel (photo 2)" style="max-width: 100%; height: auto;" />
 
 <img src="/images/ai-in-research-panel-2023-c.jpeg" alt="AI in research panel (photo 3)" style="max-width: 100%; height: auto;" />
