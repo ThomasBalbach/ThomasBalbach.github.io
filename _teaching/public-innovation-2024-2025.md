@@ -4,7 +4,7 @@ collection: teaching
 type: "Master of Science PIONEER course B-KUL-S0H07B"
 permalink: /teaching/public_innovation-2024-2025
 venue: "Joint program by KU Leuven, University of Münster, TalTech"
-date: 
+date: 2025-03-01
 location: "Leuven, Belgium"
 ---
 
