@@ -25,11 +25,6 @@ var addressPoints = [
     4.7011675
   ],
   [
-    "AI in research panel<br />Social Sciences & Humanities Research Day (KU Leuven); Leuven, Belgium",
-    50.879202,
-    4.7011675
-  ],
-  [
     "Interview at HACK4GOV: Benjamin Vermeulen and Thomas Balbach<br />HACK4GOV (DigitYser); Brussels, Belgium",
     50.8465573,
     4.351697
