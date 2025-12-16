@@ -13,7 +13,7 @@ Panel participation on AI in research at the Faculty of Social Sciences Research
 
 ## Photos
 
-<img src="/images/research_day_2023.jpeg" alt="Faculty of Social Sciences Reseach Day 2023" style="max-width: 100%; height: auto;" />
+<img src="/images/research_day_2023.png" alt="Faculty of Social Sciences Reseach Day 2023" style="max-width: 100%; height: auto;" />
 
 
 <img src="/images/ai-in-research-panel-2023.jpeg" alt="AI in research panel (photo 1)" style="max-width: 100%; height: auto;" />
