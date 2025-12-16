@@ -8,4 +8,4 @@ date: 2024-03-01
 location: "Leuven, Belgium"
 ---
 
-Marking assignments and providing individual feedback. Mentoring selected students on their Master thesis journey. 
+Marking assignments and providing individual feedback. Mentoring selected students on their master thesis journey. 
