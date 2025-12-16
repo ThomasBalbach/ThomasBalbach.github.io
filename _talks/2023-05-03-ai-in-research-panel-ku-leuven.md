@@ -3,13 +3,21 @@ title: "AI in research panel"
 collection: talks
 type: "Panel"
 permalink: /talks/2023-05-03-ai-in-research-panel-ku-leuven
-venue: "Social Sciences & Humanities Research Day (KU Leuven)"
-date: 2023-05-03
+venue: "Faculty of Social Sciences Reseach Day 2023 (KU Leuven)"
+date: 2023-04-21
 location: "Leuven, Belgium"
 ---
 
-[Event page](https://ghum.kuleuven.be/NL/ssh-research-day)
 
-Panel participation on AI in research at the Social Sciences & Humanities Research Day (KU Leuven).
+Panel participation on AI in research at the Faculty of Social Sciences Research Day (KU Leuven).
 
-Photos: /images/ai-in-research-panel-2023/
+## Photos
+
+<img src="/images/research_day_2023.jpeg" alt="Faculty of Social Sciences Reseach Day 2023" style="max-width: 100%; height: auto;" />
+
+
+<img src="/images/ai-in-research-panel-2023.jpeg" alt="AI in research panel (photo 1)" style="max-width: 100%; height: auto;" />
+
+<img src="/images/ai-in-research-panel-2023-b.jpeg" alt="AI in research panel (photo 2)" style="max-width: 100%; height: auto;" />
+
+<img src="/images/ai-in-research-panel-2023-c.jpeg" alt="AI in research panel (photo 3)" style="max-width: 100%; height: auto;" />
