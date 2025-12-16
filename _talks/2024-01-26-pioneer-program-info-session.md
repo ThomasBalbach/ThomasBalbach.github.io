@@ -8,8 +8,6 @@ date: 2024-01-26
 location: "Leuven, Belgium"
 ---
 
-[Slides (PDF)](/files/pioneer-program-info-session-2024-01-26.pdf)
-
 Informational session on the PIONEER programme at KU Leuven.
 
-Slides (PDF): /files/pioneer-program-info-session-2024-01-26.pdf
+<iframe src="{{ '/files/pioneer-program-info-session-2024-01-26.pdf' | relative_url }}" width="50%" height="50%" style="border: 1px solid #ddd;" ></iframe>
