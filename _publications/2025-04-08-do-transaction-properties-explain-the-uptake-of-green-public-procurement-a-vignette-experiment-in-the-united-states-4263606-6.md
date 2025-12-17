@@ -9,4 +9,3 @@ publication_type_raw: Abstract/Presentation/Poster
 citation: Balbach T, Lammers W, Van de Walle S (2025). Do transaction properties explain the uptake of green public procurement? A vignette experiment in the United States. IRSPM conference.
 ---
 
-Recommended citation: Balbach T, Lammers W, Van de Walle S (2025). Do transaction properties explain the uptake of green public procurement? A vignette experiment in the United States. IRSPM conference.
