@@ -88,8 +88,8 @@ publication_category:
     title: 'Books'
   articles:
     title: 'Journal Articles' 
-  inprogress:
-    title: 'Journal Articles In Progress'
+  workingpapers:
+    title: 'Working Papers'
   underreview:
     title: 'Journal Articles Under Review'
   conferences:
