@@ -86,7 +86,7 @@ author:
 publication_category:
   books:
     title: 'Books'
-  manuscripts:
+  articles:
     title: 'Journal Articles' 
   inprogress:
     title: 'Journal Articles In Progress'
