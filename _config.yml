@@ -88,12 +88,12 @@ publication_category:
     title: 'Journal Articles'
   underreview:
     title: 'Journal Articles Under Review'
-  workingpapers:
-    title: 'Working Papers'
   chapters:
     title: 'Book Chapters'
   books:
     title: 'Books'
+  workingpapers:
+    title: 'Working Papers'
   conferences:
     title: 'Conference Papers'
   outreach:
