@@ -84,18 +84,18 @@ author:
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
-  books:
-    title: 'Books'
   articles:
-    title: 'Journal Articles' 
-  workingpapers:
-    title: 'Working Papers'
+    title: 'Journal Articles'
   underreview:
     title: 'Journal Articles Under Review'
-  conferences:
-    title: 'Conference Papers'
+  workingpapers:
+    title: 'Working Papers'
   chapters:
     title: 'Book Chapters'
+  books:
+    title: 'Books'
+  conferences:
+    title: 'Conference Papers'
   outreach:
     title: 'Science Outreach'
   
