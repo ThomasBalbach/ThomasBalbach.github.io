@@ -8,5 +8,3 @@ category: conferences
 publication_type_raw: Abstract/Presentation/Poster
 citation: Balbach T (2025). The Buyer-Side Fragmentation Problem of Self-Regulation. Evidence on Green Public Procurement in Germany.. DemoTrans Conference on Democracy and Capitalism.
 ---
-
-Recommended citation: Balbach T (2025). The Buyer-Side Fragmentation Problem of Self-Regulation. Evidence on Green Public Procurement in Germany.. DemoTrans Conference on Democracy and Capitalism.
