@@ -9,4 +9,3 @@ publication_type_raw: Abstract/Presentation/Poster
 citation: 'Balbach T (2024). Mimetic Isomorphism May Explain the Contextualized Uptake of Green Public Procurement. A Structural Topic Model of Framework Contracts.. IRSPM 2024: Hybrid futures for public governance and management.'
 ---
 
-Recommended citation: Balbach T (2024). Mimetic Isomorphism May Explain the Contextualized Uptake of Green Public Procurement. A Structural Topic Model of Framework Contracts.. IRSPM 2024: Hybrid futures for public governance and management.
