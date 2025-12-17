@@ -9,4 +9,3 @@ publication_type_raw: Abstract/Presentation/Poster
 citation: 'Balbach T (2024). Transaction Properties Explain Government Contracting for Broader Outcomes. A Vignette Experiment in the United States.. IRSPM 2024: Hybrid futures for public governance and management.'
 ---
 
-Recommended citation: Balbach T (2024). Transaction Properties Explain Government Contracting for Broader Outcomes. A Vignette Experiment in the United States.. IRSPM 2024: Hybrid futures for public governance and management.
