@@ -8,5 +8,3 @@ category: conferences
 publication_type_raw: Abstract/Presentation/Poster
 citation: Balbach T, Ducuing C, Ramya C, Santoro C (2025). Neoreactionary Ideology, Regulation & Governance. Brown Bag Seminar of the Public Governance Institute.
 ---
-
-Recommended citation: Balbach T, Ducuing C, Ramya C, Santoro C (2025). Neoreactionary Ideology, Regulation & Governance. Brown Bag Seminar of the Public Governance Institute.
