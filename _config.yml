@@ -57,7 +57,7 @@ author:
 
   # Social media
   artstation       : # Username
-  bluesky          : "balbach.bsky.social" # Replace this with you Bluesky username
+  bluesky          : # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
@@ -66,9 +66,9 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
-  mastodon         : # URL
-  medium           : "https://medium.com/@thomas.balbach"
+  linkedin         : "https://www.linkedin.com/in/thomasbalbach/"
+  mastodon         : "https://mastodon.social/@balbach"
+  medium           : # Username
   pinterest        : # Username
   soundcloud       : # Username
   steam            : # Username
@@ -81,6 +81,7 @@ author:
   xing             : # Username
   youtube          : # Username
   zhihu            : # Username
+
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
