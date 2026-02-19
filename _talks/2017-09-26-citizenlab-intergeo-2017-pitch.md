@@ -13,4 +13,4 @@ location: "Berlin, Germany"
 [Watch on YouTube](https://www.youtube.com/watch?v=GnvldzPLnAM)
 
 
-Pitch on the citizen participation software solution CitizenLab at INTERGEO 2017 in Berlin.
+Pitch on the citizen participation software solution CitizenLab at INTERGEO 2017 in Berlin 🇩🇪.
