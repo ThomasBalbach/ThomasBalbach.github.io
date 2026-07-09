@@ -13,7 +13,9 @@ My interest in open peer review has been brewing since the first year of my PhD.
 
 It remains to be seen how open peer review will play out at greater adoption rates. I regard it as highly promising not because of specific technical details, but because it takes peer review in the right direction: towards more accountability.
 
-As a PhD candidate, I feel the need to future-proof my work through open research practices such as preregistration, open data, and open peer review. In public administration research, open-science practices are becoming more visible, but open peer review is not yet mainstream. It is noticeable in which direction the train is heading, and it is heading towards open research. If I do not submit at least one manuscript for open peer review, I am afraid that future hiring and grant committees may ask why my PhD did not involve more up-to-date research practices.
+As a PhD candidate, I feel the need to future-proof my work through open research practices such as preregistration, open data, and open peer review. In public administration research, open-science practices are becoming more visible, but open peer review is not yet mainstream. It is noticeable in which direction the train is heading, and it is heading towards open research. 
+
+If I do not submit at least one manuscript for open peer review, I am afraid that future hiring and grant committees may ask why my PhD did not involve more up-to-date research practices. This year, I submitted my very first manuscript for open peer review: https://open-research-europe.ec.europa.eu/articles/6-230/v1
 
 ![Coffee mug](/images/coffee-mug.jpg)
 *Academic anxieties are best served with coffee.*
