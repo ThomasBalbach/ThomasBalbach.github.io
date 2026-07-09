@@ -1,6 +1,6 @@
 ---
 title: "My First Time: Open Peer Review as a Social Scientist"
-date: 2026-03-01
+date: 2026-07-09
 tags: [open-science, open-peer-review, public-administration, social-science, academic-publishing]
 ---
 
